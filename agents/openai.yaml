@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implementation Approval"
+  short_description: "Require approval before repository edits"
+  default_prompt: "Use $implementation-approval for one gated change, or $implementation-approval on to keep the gate active until $implementation-approval off."
+policy:
+  allow_implicit_invocation: false
