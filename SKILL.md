@@ -1,6 +1,7 @@
 ---
 name: implementation-approval
 description: Explicit-only proposal-before-edit gate for repository changes. Bare invocation governs one change; `on` keeps the gate active for the current primary task until `off`. Use only when the user explicitly invokes `$implementation-approval`.
+disable-model-invocation: true
 ---
 
 # Implementation Approval
