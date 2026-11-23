@@ -86,6 +86,8 @@ After presenting the proposal, stop before all governed actions.
 
 ## Resolve approval
 
+Before asking for approval of an initial or revised proposal, verify that the **Files** list pairs every affected path with its exact change units and the operation on each.
+
 Approval applies only to the latest complete proposal.
 
 - Follow exact approval language when governing repository policy defines it.
